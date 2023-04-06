@@ -1,0 +1,257 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "carNum": 3,
+            "lineId": 71,
+            "lineLength": 0,
+            "mapUrl": "https:\/\/bus.ichengka.com\/map\/71\/2\/3c51a9fa4fba59742c9c7b00f6f1bbfb?st=1&site=13",
+            "siteOrder": 13,
+            "upDown": 2,
+            "normalColor": "#1BAC2E",
+            "list": [
+                {
+                    "online": 0,
+                    "plateCode": "渝A17791F",
+                    "pullIn": 2,
+                    "residueSite": 2,
+                    "nextDistance": 419.10000000000002,
+                    "runLength": 0,
+                    "upDown": 2,
+                    "nextNum": 12,
+                    "angle": 1.1080000000000001,
+                    "distance": 1460.79,
+                    "drawInTime": 204,
+                    "gpsStatus": 1,
+                    "lngLat": "105.774001,29.499486"
+                },
+                {
+                    "online": 0,
+                    "plateCode": "渝C85911",
+                    "pullIn": 1,
+                    "residueSite": 0,
+                    "nextDistance": 2547.27,
+                    "runLength": 0,
+                    "upDown": 2,
+                    "nextNum": 22,
+                    "angle": 355.02960000000002,
+                    "distance": 8329.2700000000004,
+                    "drawInTime": -1,
+                    "gpsStatus": 1,
+                    "lngLat": "105.762439,29.579335"
+                },
+                {
+                    "online": 0,
+                    "plateCode": "渝A17311D",
+                    "pullIn": 1,
+                    "residueSite": 0,
+                    "nextDistance": 0,
+                    "runLength": 0,
+                    "upDown": 2,
+                    "nextNum": 36,
+                    "angle": 282.84140000000002,
+                    "distance": 22926.439999999999,
+                    "drawInTime": -1,
+                    "gpsStatus": 1,
+                    "lngLat": "105.730731,29.694914"
+                }
+            ],
+            "runStauts": 2,
+            "siteRoad": 1,
+            "siteRoads": [
+                {
+                    "color": "#1BAC2E",
+                    "num": 1,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 2,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 3,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 4,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 5,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 6,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 7,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 8,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 9,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 10,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 11,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 12,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 13,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 14,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 15,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 16,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 17,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 18,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 19,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 20,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 21,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 22,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 23,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 24,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 25,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 26,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 27,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 28,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 29,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 30,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 31,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 32,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 33,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 34,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 35,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 36,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 37,
+                    "roadCondition": "畅通"
+                },
+                {
+                    "color": "#1BAC2E",
+                    "num": 38,
+                    "roadCondition": "畅通"
+                }
+            ]
+        }
+    ],
+    "msg": "成功",
+    "time": 1680681127855
+}
