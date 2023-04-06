@@ -2,7 +2,7 @@
     <div id="map"></div>
     <Title title="大足公交206路" />
     <Time :time="time" />
-    <div style="position: absolute; width: 75px; height: 30px; bottom: 10px; right: 10px; background-color: rgba(66, 96, 164, 0.9); color: #fff; border-radius: 5px; border: 2px solid #fff; display: flex; align-items: center; justify-content: center; font-weight: bold; cursor: pointer; z-index: 100;" @click="getBusData()">
+    <div style="position: absolute; width: 75px; height: 30px; bottom: 10px; right: 10px; background-color: rgba(81, 133, 247, 0.95); color: #fff; border-radius: 5px; border: 2px solid #fff; display: flex; align-items: center; justify-content: center; font-weight: bold; cursor: pointer; z-index: 100;" @click="getBusData()">
         手动刷新
     </div>
 </template>
@@ -21,7 +21,7 @@ import Time from './components/Time.vue'
 import _ from './resource/bus.json'
 import stations2061 from './resource/206Stations1.json'
 import stations2062 from './resource/206Stations2.json'
-import currentBus from './resource/temp/currentBus.json'
+// import currentBus from './resource/temp/currentBus.json'
 
 let busGeojson: any = _;
 
@@ -199,5 +199,6 @@ let getBusData = () => {
         })
     })
 }
+
 getBusData()
 </script>
